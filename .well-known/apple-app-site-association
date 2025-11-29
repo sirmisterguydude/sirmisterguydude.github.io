@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "NY531.Companion"
+        ],
+        "components": [
+          {
+            "/": "/plaid/*",
+            "comment": "Plaid OAuth deep links"
+          }
+        ]
+      }
+    ]
+  }
+}
